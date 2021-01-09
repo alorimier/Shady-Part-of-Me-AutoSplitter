@@ -56,7 +56,4 @@ split {
 	if (old.section == 137 && current.section == 138){
 		return true;
 	}
-	if (old.section == 145 && current.section == 146){
-		return true;
-	}
 }
