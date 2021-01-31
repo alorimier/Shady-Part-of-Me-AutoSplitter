@@ -1,5 +1,5 @@
 state("spom") {
-	int section : 0x004F50D8, 0x1D4;
+	int section : 0x004ED308, 0x1D4;
 }
 init {
 	print("Init SPOM");
